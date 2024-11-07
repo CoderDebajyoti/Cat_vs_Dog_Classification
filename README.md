@@ -1,7 +1,3 @@
-Here's a template for your GitHub repository README:
-
----
-
 # Cat vs Dog Classification
 
 A machine learning project for classifying images of cats and dogs using a Convolutional Neural Network (CNN) model. This project uses a labeled dataset from Kaggle to train and evaluate the model’s performance in identifying images as either a cat or a dog.
@@ -52,9 +48,9 @@ The dataset for this project is the **Dogs vs Cats** dataset available on Kaggle
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-```text
-MIT License
 
+MIT License
+```
 Copyright (c) 2024 Debajyoti Das
 
 Permission is hereby granted, free of charge, to any person obtaining a copy...
@@ -65,5 +61,3 @@ Permission is hereby granted, free of charge, to any person obtaining a copy...
 - Thanks to Kaggle for the [Dogs vs Cats dataset](https://www.kaggle.com/datasets/salader/dogs-vs-cats).
   
 ---
-
-This structure should provide a solid base for your repository.
