@@ -49,7 +49,7 @@ The dataset for this project is the **Dogs vs Cats** dataset available on Kaggle
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
-MIT License
+## MIT License
 ```
 Copyright (c) 2024 Debajyoti Das
 
